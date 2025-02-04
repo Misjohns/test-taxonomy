@@ -1,0 +1,140 @@
+created_by:
+version: 3
+domain: Arts
+document_outline: Overview of David Bowie the English singer, songwriter, musician, and actor.
+seed_examples:
+  - context: "David Robert Jones (8 January 1947\_– 10 January 2016), known professionally as David Bowie (/ˈboʊi/ BOH-ee),[1] was an English singer, songwriter, musician and actor. Regarded as one of the most influential musicians of the 20th century, Bowie was acclaimed by critics and musicians, particularly for his innovative work during the 1970s. His career was marked by reinvention and visual presentation, and his music and stagecraft has had a significant impact on popular music."
+    questions_and_answers:
+      - question: When was David Bowie born?
+        answer: 8 January 1947
+      - question: What was Bowie's name at birth?
+        answer: David Robert Jones
+      - question: Why is Bowie important to the music world?
+        answer: >-
+          Bowie is regarded as one of the most influential musicians of the 20th
+          century.
+  - context: "During his lifetime, Bowie sold over 100\_million records worldwide, making him one of the best-selling music artists.[e] In the UK, he was awarded nine platinum, eleven gold and eight silver albums, and in the US, five platinum and nine gold.[501] Since 2015, Parlophone has remastered Bowie's catalogue through the \"Era\" box set series, starting with Five Years (1969–1973).[502] Bowie was announced as the best-selling vinyl artist of the 21st century in 2022.[503]\n\nThe 2020 revision of Rolling Stone's 500 Greatest Albums of All Time list includes The Rise and Fall of Ziggy Stardust and the Spiders from Mars at number 40,[504] Station to Station at 52,[505] Hunky Dory at 88,[506] Low at 206,[507] and Scary Monsters at 443.[508] On the 2021 revision of the same magazine's 500 Greatest Songs of All Time list, Bowie's songs include \"'Heroes'\" at number 23,[509] \"Life on Mars?\" at 105,[510] \"Space Oddity\" at 189,[511] \"Changes\" at 200,[512] \"Young Americans\" at 204,[513] \"Station to Station\" at 400,[514] and \"Under Pressure\" at 429.[515] Four of his songs are included in The Rock and Roll Hall of Fame's 500 Songs that Shaped Rock and Roll.[516]"
+    questions_and_answers:
+      - question: How many records did Bowie sell?
+        answer: "David Bowie sold over 100\_million records worldwide."
+      - question: >-
+          What songs of Bowie's are included in the 2020 Rolling Stone's 500
+          Greatest Albums of All Time?
+        answer: >-
+          The Rise and Fall of Ziggy Stardust and the Spiders from Mars, Station
+          to Station, Hunky Dory, Low, and Scary Monsters.
+      - question: Who was the best-selling vinyl artist of the 21st century in 2022?
+        answer: >-
+          In 2022, Davis Bowie was announced as the best-selling vinyl artist of
+          the 21st century.
+  - context: "Born           | David Robert Jones (1947-01-08)8 January 1947 London, England                                          |\n| Died           | 10 January 2016(2016-01-10) (aged\_69) New York City, US                                                |\n| Occupations    | Singer songwriter musician actor                                                                       |\n| Years\_active   | 1962–2016                                                                                              |\n| Works          | Discography songs videography filmography                                                              |\n| Spouses        | Angie Barnett ​ ​(m.\_1970; div.\_1980)​  Iman ​(m.\_1992)​                                               |\n| Children       | 2, including Duncan Jones                                                                              |\n| Awards         | Full list                                                                                              |\n| Musical career | Musical career                                                                                         |\n| Genres         | Art rock glam rock pop electronic                                                                      |\n| Instruments    | Vocals guitar keyboards saxophone harmonica                                                            |\n| Labels         | ISO RCA Virgin EMI Columbia Deram Mercury BMG Arista Pye Vocalion Parlophone Ryko                      |\n| Formerly of    | The Konrads The King Bees The Manish Boys The Lower Third The Riot Squad Hype Arnold Corns Tin Machine |\n| Past members   | Full list                                                                                              |\n|                |                                                                                                        |\n| Website        | davidbowie.com"
+    questions_and_answers:
+      - question: What music genre was Bowie?
+        answer: >-
+          Bowie was best know for his contribution to the art rock, glam rock,
+          pop, and electronic genres.
+      - question: Did bowie play any instructments?
+        answer: >-
+          In addition to singing, Bowie played the guitar, keyboards, saxophone,
+          and harmonica.
+      - question: Did Bowie have any family?
+        answer: >-
+          Bowie was married twice. He married Angie Barnett in 1970, and Iman in
+          1992. Bowie had two children.
+  - context: >-
+      He studied art, music and design before embarking on a professional career
+      as a musician in 1963. He released a string of unsuccessful singles with
+      local bands and a self-titled solo album (1967) before achieving his first
+      top-five entry on the UK singles chart with "Space Oddity" (1969). After a
+      period of experimentation, he re-emerged in 1972 during the glam rock era
+      with the flamboyant and androgynous alter ego Ziggy Stardust. The
+      character was spearheaded by the success of the single "Starman" and its
+      album The Rise and Fall of Ziggy Stardust and the Spiders from Mars (both
+      1972), which won him widespread popularity. In 1975, Bowie's style shifted
+      towards a sound he characterised as "plastic soul", initially alienating
+      many of his UK fans but garnering his first major US crossover success
+      with the number-one single "Fame" and the album Young Americans (both
+      1975). In 1976, Bowie starred in the cult film The Man Who Fell to Earth
+      and released Station to Station. In 1977, he again changed direction with
+      the electronic-inflected album Low, the first of three collaborations with
+      Brian Eno that came to be known as the Berlin Trilogy. "Heroes" (1977) and
+      Lodger (1979) followed; each album reached the UK top-five and received
+      lasting critical praise.
+
+
+      After uneven commercial success in the late 1970s, Bowie had three
+      number-one hits: the 1980 single "Ashes to Ashes", its album Scary
+      Monsters (and Super Creeps) and "Under Pressure" (a 1981 collaboration
+      with Queen). He achieved his greatest commercial success in the 1980s with
+      Let's Dance (1983). Between 1988 and 1992, he fronted the hard rock band
+      Tin Machine before resuming his solo career in 1993. Throughout the 1990s
+      and 2000s, Bowie continued to experiment with musical styles, including
+      industrial and jungle. He also continued acting; his roles included Major
+      Jack Celliers in Merry Christmas, Mr. Lawrence (1983), Jareth the Goblin
+      King in Labyrinth (1986), Phillip Jeffries in Twin Peaks: Fire Walk with
+      Me (1992), Andy Warhol in the biopic Basquiat (1996), and Nikola Tesla in
+      The Prestige (2006), among other film and television appearances and
+      cameos. He ceased touring after 2004 and his last live performance was at
+      a charity event in 2006. He returned from a decade-long recording hiatus
+      in 2013 with The Next Day and remained musically active until his death
+      from liver cancer in 2016. He died two days after both his 69th birthday
+      and the release of his final album, Blackstar.
+
+
+      During his lifetime, his record sales, estimated at over 100 million
+      worldwide, made him one of the best-selling musicians of all time. He is
+      the recipient of numerous accolades, including six Grammy Awards and four
+      Brit Awards. Often dubbed the "chameleon of rock" due to his continual
+      musical reinventions, he was inducted into the Rock and Roll Hall of Fame
+      in 1996. Rolling Stone ranked him among the greatest singers, songwriters
+      and artists of all time. As of 2022, Bowie was the best-selling vinyl
+      artist of the 21st century.
+    questions_and_answers:
+      - question: Who is Ziggy Stardust?
+        answer: >-
+          In 1972, David Bowie re-emerged as a flamboyant and androgynous alter
+          ego, Ziggy Stardust.
+      - question: What was Bowie's most successful song?
+        answer: >-
+          Bowie achieved his greatest commercial success in the 1983 with Let's
+          Dance.
+      - question: What was Bowie's last album?
+        answer: Bowie's last album, Blackstar, was released in 2016.
+  - context: >-
+      Outside of music, Bowie dabbled in several forms of writings during his
+      life. In the late 1990s, Bowie was commissioned for writings of various
+      media, including an essay on Jean-Michel Basquiat for the 2001 anthology
+      book Writers on Artists and forewords to Jo Levin's 2001 publication GQ
+      Cool, Mick Rock's 2001 photography portfolio Blood and Glitter, his wife
+      Iman's 2001 book I Am Iman, Q magazine's 2002 special The 100 Greatest
+      Rock 'n' Roll Photographs and Jonathan Barnbrook's artwork portfolio
+      Barnbrook Bible: The Graphic Design of Jonathan Barnbrook.[334] He also
+      heavily contributed to the 2002 Genesis Publications memoir of the Ziggy
+      Stardust years, Moonage Daydream, which was rereleased in 2022.[343]
+
+
+      Bowie also wrote liner notes for several albums, including Too Many Fish
+      in the Sea by Robin Clark, the wife of his guitarist Carlos Alomar, Stevie
+      Ray Vaughan's posthumous Live at Montreux 1982 & 1985 (2002), the
+      Spinners' compilation The Chrome Collection (2003), the tenth anniversary
+      reissue of Placebo's debut album (2006) and Neu!'s Vinyl Box (2010).[334]
+      Bowie also wrote an appreciation piece in Rolling Stone for Nine Inch
+      Nails in 2005 and an essay for the booklet accompanying Iggy Pop's A
+      Million in Prizes: The Anthology the same year.[334]
+    questions_and_answers:
+      - question: Did Bowie ever write other than music?
+        answer: Yes, Bowie produced several forms of writing during his lifetime.
+      - question: What liner notes did Bowie write?
+        answer: >-
+          Bowie wrote liner notes for  Too Many Fish in the Sea, Live at
+          Montreux, The Chrome Collection, Placebo's debut album, and Neu!'s
+          Vinyl Box.
+      - question: Did Bowie ever write anything about Ziggy Stardust?
+        answer: >-
+          Bowie contributed to Moonage Daydream, a memoir of the Ziggy Stardust
+          years.
+document:
+  repo: https://github.com/Misjohns/taxonomy-knowledge-docs
+  commit: c889a9932bb9f89a5d7f9bfdc58477b6c4daf5ec
+  patterns:
+    - David Bowie - Wikipedia-20250204T153223256.md
