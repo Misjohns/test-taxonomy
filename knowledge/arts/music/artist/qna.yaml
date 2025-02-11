@@ -1,0 +1,108 @@
+created_by:
+version: 3
+domain: Music Artist
+document_outline: Information about Ziggy Stardust, the alter ego of David Bowie.
+seed_examples:
+  - context: "The first song to be properly recorded for Ziggy Stardust was the Ron Davies cover \"It Ain't Easy\", on 9 July 1971. Originally slated for release on Hunky Dory, the song was passed for inclusion on that album and subsequently placed on Ziggy Stardust. With Hunky Dory being readied for release, the sessions for Ziggy Stardust officially began at Trident on 8\_November 1971,[13] using the same personnel as Hunky Dory minus Wakeman. In 2012, Scott said that \"95 percent of the vocals on the four albums I did with him as producer, they were first takes.\"[14] According to the biographer Nicholas Pegg, Bowie's \"sense of purpose\" during the sessions was \"decisive and absolute\"; he knew exactly what he wanted for each individual track. Since most of the tracks were recorded almost entirely live, Bowie recalled that at some points, he had to hum Ronson's solos to him.[15] Due to Bowie's generally dismissive attitude during the sessions for The Man Who Sold the World (1970),[16][3] Ronson had to craft his solos individually and had very little guidance.[15] Bowie had a much better attitude when recording Hunky Dory[3][16] and Ziggy Stardust, and gave Ronson guidance on what he was looking for.[15] For the album, Ronson used an electric guitar plugged to a 100-watt Marshall amplifier and a wah-wah pedal;[14] Bowie played acoustic rhythm guitar.[17]"
+    questions_and_answers:
+      - question: What was Ziggy's first song he recorded?
+        answer: >-
+          It Ain't Easy by Ron Davie was the first song recorded by Ziggy
+          Stardust
+      - question: Who originally produced It Ain't Easy?
+        answer: Ron Davie
+      - question: What album does "It Ain't Easy" appear?
+        answer: 'The song was included on the Ziggy Stardust album. '
+  - context: >-
+      "Ziggy Stardust" is a song by the English singer-songwriter David Bowie
+      from his 1972 album The Rise and Fall of Ziggy Stardust and the Spiders
+      from Mars. Co-produced by Bowie and Ken Scott, he recorded it at Trident
+      Studios in London in November 1971 with his backing band the Spiders from
+      Mars—comprising Mick Ronson, Trevor Bolder and Mick Woodmansey. Lyrically,
+      the song is about Ziggy Stardust, a bisexual alien rock star who acts as a
+      messenger for extraterrestrial beings. The character was influenced by
+      English singer Vince Taylor, as well as the Legendary Stardust Cowboy and
+      Kansai Yamamoto. Although Ziggy is introduced earlier on the album, this
+      song is its centrepiece, presenting the rise and fall of the star in a
+      very human-like manner. Musically, it is a glam rock song, like its parent
+      album, and is based around a Ronson guitar riff.
+    questions_and_answers:
+      - question: Who wrote the song "Ziggy Stardust"?
+        answer: >-
+          David Bowie wrote "Ziggy Stardust" which was included on his 1972
+          album The Rise and Fall of Ziggy Stardust and the Spiders from Mars.
+      - question: What is the song "Ziggy Stardust" about?
+        answer: >-
+          Ziggy Stardust is a song about a bisexual alien rocker who delivers
+          messages for extraterrestrial beings.
+      - question: What rock genre is Ziggy Stardust song?
+        answer: Ziggy Stardust is considered glam rock.
+  - context: >-
+      Described as a loose concept album and rock opera, Ziggy Stardust focuses
+      on Bowie's titular alter ego Ziggy Stardust, a fictional androgynous and
+      bisexual rock star who is sent to Earth as a saviour before an impending
+      apocalyptic disaster. In the story, Ziggy wins the hearts of fans but
+      suffers a fall from grace after succumbing to his own ego. The character
+      was inspired by numerous musicians, including Vince Taylor. Most of the
+      album's concept was developed after the songs were recorded. The glam rock
+      and proto-punk musical styles were influenced by Iggy Pop, The Velvet
+      Underground and Marc Bolan. The lyrics discuss the artificiality of rock
+      music, political issues, drug use, sexuality and stardom. The album cover,
+      photographed in monochrome and recoloured, was taken in London outside the
+      home of furriers "K. West".
+    questions_and_answers:
+      - question: Who is Ziggy Stardust?
+        answer: Ziggy Stardust is the alter ego of David Bowie.
+      - question: Why is Ziggy Stardust sent to Earth?
+        answer: To save earth from an apocalyptic disaster.
+      - question: What do the lyrics of Ziggy Stardust deal with?
+        answer: Drugs, politics, sex, stardom and rock and roll.
+  - context: >-
+      One of the main inspirations for Ziggy Stardust was the English singer
+      Vince Taylor, whom Bowie met after Taylor had a mental breakdown and
+      believed himself to be a cross between a god and an alien.[47] Iggy Pop,
+      the singer of the proto-punk band the Stooges,[48] provided another main
+      inspiration. Bowie had recently become infatuated with the singer and took
+      influence from him for his next record, both musically and lyrically.[49]
+      Other influences for the character included Bowie's earlier album The Man
+      Who Sold the World,[48] Lou Reed, the singer and guitarist of the Velvet
+      Underground;[48] Marc Bolan, the singer and guitarist of the glam rock
+      band T. Rex;[15][26] and the cult musician Legendary Stardust Cowboy.[50]
+      An alternative theory is that during a tour, Bowie developed the concept
+      of Ziggy as a melding of the persona of Iggy Pop with the music of Reed,
+      producing "the ultimate pop idol".[37][15] Woodmansey also cited the
+      guitarist and singer Jimi Hendrix and the progressive rock band King
+      Crimson as being influences.[51]
+    questions_and_answers:
+      - question: What was a primary inspiration for Ziggy Stardust?
+        answer: Ziggy was inspired by the real lif singer Vince Taylor.
+      - question: >-
+          Who else did Bowie take inspiration from when developing Ziggy
+          Stardust?
+        answer: Proto-puck artist Iggy Pop inspired Bowie.
+      - question: >-
+          What other artist did Bowie use to develop the concept of Ziggy
+          Stardust?
+        answer: >-
+          Jimmy Hendricks, King Crimson, and Lou Reed provided additional
+          inspiration for the development of Ziggy Stardust.
+  - context: "Since its release, \"Ziggy Stardust\" has received widespread acclaim from music critics, with the majority praising its story, guitar riff and the band's performance. In a review for Ziggy Stardust on release, Richard Cromelin of Rolling Stone praised Bowie's imagery and storytelling, calling it some of his most \"adventuresome\" up to that point.[9] Ned Raggett of AllMusic noted the song's restraint compared to other songs on the album: \"Rather than being one of the album's quick, stone-cold rockers, it's measured, takes its time, is as acoustic as it is electric.\" Raggett described the band's performance as \"crisp and explosive\" praising Ronson's guitar work, believing his riffs and their distortion could \"signal\_... where rock could go as any of Hendrix's big hits.\" He also complimented Bowie's vocal performance and called the song a \"total classic.\"[31] Ultimate Classic Rock ranked \"Ziggy Stardust\" second on their list of the ten best glam rock songs of the 1970s, behind \"20th Century Boy\" by T. Rex, which was written by Marc Bolan,[6] one of the influencers of Ziggy Stardust.[32] The same publication, on their list of Bowie's ten best songs, listed \"Ziggy Stardust\" at number six, praising Ronson's guitar hook, writing, \"[it] gives the song as much of its personality as Bowie's lyrics do.\"[33] Ian Fortnam of Classic Rock ranked every track on the album from worst to best placing the song at number four, praising its storytelling, Ronson's guitar work and Bowie's vocal performance.[34] In 2018, NME, on their list of Bowie's 40 greatest songs, ranked \"Ziggy Stardust\" at number 20, calling Ronson's guitar riff one of rock's greatest.[26] Rolling Stone described the song as \"one of rock's earliest, and best, power ballads.\"[35] In 2010, the song ranked at number 282 on their list of The 500 Greatest Songs of All Time.[23] Ultimate Classic Rock placed the song on their list of the top 200 songs of the 1970s, writing that as the centrepiece of Bowie's \"greatest album\", \"in a way, it's also Bowie's story turbocharged through the cosmos, ready for whatever the decade offered him.\"[36] The song is one of four of Bowie's songs included on the Rock and Roll Hall of Fame's list of The Songs That Shaped Rock and Roll.[37]"
+    questions_and_answers:
+      - question: Was Ziggy Stardust a successful album?
+        answer: >-
+          Ziggy Stardust received critical acclaim, with praise given to the
+          story, guitar riff, and performance.
+      - question: Did Ziggy Stardust ever win any awards?
+        answer: >-
+          "Ziggy Stardust" ranked second on the Ultimate Classic Rock list of
+          the top ten glam rock songs of the 1970s.
+      - question: Who played guitar on Ziggy Stardust?
+        answer: Ronson played guitar on Ziggy Stardust.
+document:
+  repo: https://github.com/Misjohns/taxonomy-knowledge-docs
+  commit: 66860aeeef24654d624fe79e0e5fc482a01c6a6c
+  patterns:
+    - Ziggy Stardust (song) - Wikipedia-20250211T202724696.md
+    - >-
+      The Rise and Fall of Ziggy Stardust and the Spiders from Mars -
+      Wikipedia-20250211T202724696.md
