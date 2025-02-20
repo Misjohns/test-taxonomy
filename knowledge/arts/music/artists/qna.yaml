@@ -1,0 +1,52 @@
+created_by: Misjohns
+version: 3
+domain: Arts
+document_outline: >-
+  Overview of The Avett Brothers, an American folk rock band from North
+  Carolina.
+seed_examples:
+  - context: '1'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: '2'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: '3'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: '4'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: '5'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+document:
+  repo: https://en.wikipedia.org/wiki/The_Avett_Brothers
+  commit: asgjvjlv
+  patterns:
+    - the avett brothers
